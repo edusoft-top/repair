@@ -217,10 +217,6 @@ REACT_APP_API_BASE_URL=https://your-api-domain.com
 - ตรวจสอบประเภทไฟล์ที่อนุญาต
 - ตรวจสอบ server upload limits
 
-## License
-
-MIT License - ดูรายละเอียดในไฟล์ LICENSE
-
 ## การสนับสนุน
 
 - สำหรับการสนับสนุนและการแก้ไขปัญหา กรุณาติดต่อทีมพัฒนา EduSoft.top
