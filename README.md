@@ -226,3 +226,7 @@ MIT License - ดูรายละเอียดในไฟล์ LICENSE
 สำหรับการสนับสนุนและการแก้ไขปัญหา กรุณาติดต่อทีมพัฒนา EduSoft.top
 Mail : edusoft.top@gmail.com
 Website : https://edusoft.top
+
+## ทดลองใช้งาน
+
+Website: https://edusoft.top/free/repair Username: admin Password: 123456
