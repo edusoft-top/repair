@@ -107,11 +107,6 @@ npm install -D tailwindcss@3.4.17 postcss@8.5.6 autoprefixer@10.4.21
 npx tailwindcss init -p
 ```
 
-# Build
-```bash
-npm run build
-```
-
 ### 3. การใช้งาน
 ```javascript
 import App from './App';
@@ -203,34 +198,6 @@ npm run build
 ```
 # API Configuration
 REACT_APP_API_BASE_URL=https://your-api-domain.com
-
-# Public URL สำหรับ subdirectory deployment
-# ใช้เฉพาะเมื่อ deploy ใน subdirectory (ปกติจะตั้งในเวลา build)
-PUBLIC_URL=your-subdirectory
-
-# Application Configuration
-REACT_APP_APP_NAME=ระบบแจ้งซ่อม
-REACT_APP_VERSION=0.1.0
-
-# Feature Flags (optional)
-REACT_APP_ENABLE_DEBUG=false
-REACT_APP_ENABLE_PWA=true
-
-# File Upload Configuration
-REACT_APP_MAX_FILE_SIZE=5242880
-REACT_APP_ALLOWED_FILE_TYPES=jpg,jpeg,png,pdf,doc,docx
-
-# UI Configuration
-REACT_APP_DEFAULT_THEME=light
-REACT_APP_DEFAULT_LANGUAGE=th
-
-# Analytics (optional)
-# REACT_APP_GA_TRACKING_ID=your-ga-tracking-id
-# REACT_APP_SENTRY_DSN=your-sentry-dsn
-
-# Development only
-# REACT_APP_MOCK_API=false
-# REACT_APP_API_DELAY=1000
 ```
 
 ## การแก้ไขปัญหาทั่วไป
